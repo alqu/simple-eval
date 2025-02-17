@@ -1,4 +1,3 @@
-/* eslint-disable sort-keys */
 import simpleEval from '../index.mjs';
 import each from 'mocha-each';
 import * as espree from 'espree';
