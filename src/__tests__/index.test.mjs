@@ -1,4 +1,5 @@
 import simpleEval from '../index.mjs';
+import { expect } from 'chai';
 import each from 'mocha-each';
 import * as espree from 'espree';
 
